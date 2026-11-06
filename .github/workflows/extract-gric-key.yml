@@ -133,3 +133,4 @@ jobs:
           print("[+] 拿到密钥后更新 GitHub Secret LYNKCO_APP_SECRETS（若"
                 " daily-tasks 需要）或本地 geely_env.json 的 gricSecret 字段。")
           EOF
+# register workflow
